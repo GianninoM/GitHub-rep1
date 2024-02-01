@@ -1,6 +1,7 @@
 # GitHub-rep1
 Work file
 Analysis of the Political and Economic Context of the Relationship between Corruption and Improper Waste Management
+
 Abstract:
 This GitHub repository hosts a research project conducted by myself during the first year at IE University, Madrid. The project explores the intricate connection between organized corruption/crime and improper waste management, focusing on the socio-political-economic mechanisms that sustain this phenomenon. By analyzing the Campania region in southern Italy (plagued by the Camorra) and Sweden (known for transparency and efficient waste management), the study highlights the detrimental effects of corruption on economic growth and environmental sustainability.
 
