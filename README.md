@@ -1,4 +1,4 @@
-# GitHub-rep1
+# RESEARCH PAPER
 Work file
 Analysis of the Political and Economic Context of the Relationship between Corruption and Improper Waste Management
 
